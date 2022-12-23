@@ -1,0 +1,8 @@
+Transaction History is
+Event CompSymbol Number PricePerShare Tot
+
+Buy   GOOG       8      568.964        4551.71   Fri Dec 23 16:58:17 2022
+Buy   AMZN       4      132.66        530.64   Fri Dec 23 16:59:05 2022
+Sell   GOOG       3      568.964        1706.89   Fri Dec 23 16:59:48 2022
+Buy   DELL       10      16.29        162.9   Fri Dec 23 17:01:02 2022
+Buy   SLB       20      64.34        1286.8   Fri Dec 23 17:01:36 2022

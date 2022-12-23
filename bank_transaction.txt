@@ -1,0 +1,3 @@
+Type         Amount           Balance                  Date
+Deposit 1000.000000         6174.839844          Fri Dec 23 12:07:00 2022
+Deposit 200.000000         6374.839844          Fri Dec 23 12:07:10 2022
